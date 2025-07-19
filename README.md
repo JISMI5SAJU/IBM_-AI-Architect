@@ -1,1 +1,1 @@
-# IBM_-AI-Architect
+# IBM_AI_Architect
